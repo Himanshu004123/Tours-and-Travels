@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo -E pm2 start server.js
+sudo -E pm2 start script.js
