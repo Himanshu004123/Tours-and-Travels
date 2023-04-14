@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd 
+cd /
 yum install npm -y
