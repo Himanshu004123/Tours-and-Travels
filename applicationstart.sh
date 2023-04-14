@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /
-sudo -E pm2 start script.js
+pm2 start ~/server.js -i 0 --name "admin" &
